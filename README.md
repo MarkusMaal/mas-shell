@@ -1,4 +1,4 @@
-![mas_PC](C:\Users\Administrator\source\repos\MasShell\mas_PC.png)
+![Markuse asjad logo](mas_PC.png)
 
 # Markuse arvuti lukustusekraan 2.0 (MasShell)
 
